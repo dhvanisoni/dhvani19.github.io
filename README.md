@@ -1,8 +1,16 @@
-# Data Scientist
+# Hi 👋 I'm a Data Scientist & Analyst  
 
 #### [LinkedIn](http://www.linkedin.com/in/dhvanisoni19) |  [Github](https://github.com/dhvanisoni) | [Kaggle](https://www.kaggle.com/dhvanisoni)
 
 ## About Me
+
+* 🚀 I'm a dedicated Data Science enthusiast with a strong passion for Data Analysis and Machine Learning. My journey has been fueled by an unyielding curiosity to uncover insights within complex data sets and apply them to solve real-world business challenges through data-driven solutions.
+* 📊 My expertise lies in leveraging large and complex data to provide valuable insights and solve business problems using analytics and data-driven problem-solving skills.
+* I am poficient in Python, SQL, Excel,Power BI, Tableau and Machine Learning.
+* ⚡ My passion for solving business problems through data and innovations led me to pursue a career in this field.
+
+* 🌍  I'm based in toronto
+* <p> ✉️  You can contact me at <h>dhvanisoni135@gmail.com</h> </p>
 
 ## Education
 
