@@ -1,20 +1,23 @@
-# Data Scientist   
+# Dhvani Soni   
 
-#### [LinkedIn](http://www.linkedin.com/in/dhvanisoni19) |  [Github](https://github.com/dhvanisoni) | [Kaggle](https://www.kaggle.com/dhvanisoni)
+#### [LinkedIn](http://www.linkedin.com/in/dhvanisoni19) |  [Github](https://github.com/dhvanisoni) 
 
 ## About Me
 
-I am result-driven Data scientist with a passion for leveraging data to solve real-world business problems. My experties lies in tranfroming raw data into insightful data-driven solutions and provide meaningful insights. I am proficient in Python and SQL with a solid foundation in machine learning, deep learning, statistical analysis, and data visualization. 
+I am a Data scientist with a passion for leveraging data to solve real-world business problems. My experties lies in tranfroming raw data into insightful data-driven solutions and provide meaningful insights. I am proficient in Python and SQL with a solid foundation in machine learning, deep learning, statistical analysis, and data visualization. 
 
-## Education
+My journey in data science is marked by a continuous pursuit of knowledge and a commitment to excellence. I bring a blend of technical skill, strategic thinking, problem solving and a collaborative spirit to every project, aiming to drive innovation and create value through data-centric solutions. Whether it's through predictive analytics, data visualization, or advanced machine learning algorithms, my goal is to empower organizations to make data-informed decisions and unlock new opportunities for efficiency and growth. Always committed to delivering innovative solutions and making a significant impact in the field of Data Science and AI.
 
-#### Postgraduate course - Artificial Intelligence with Machine Learning (_2023-2023_) 
+
+## Education 
+
+#### 🎓 Postgraduate course - Artificial Intelligence with Machine Learning (_2023-2023_) 
 Humber College, Toronto, ON.
 
-#### Postgraduate course - Data Analytics for Business Decisions Making (_2022-2022_)
+#### 🎓 Postgraduate course - Data Analytics for Business Decisions Making (_2022-2022_)
 Durham College, Oshawa, ON.
  
-#### Bachelor's degree in Computer Engineering (_2014 - 2018_)
+#### 🎓 Bachelor's degree in Computer Engineering (_2014 - 2018_)
 Gujarat Technological University, India 
 
 ## Skills
