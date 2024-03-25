@@ -1,16 +1,10 @@
-# Hi 👋 I'm a Data Scientist & Analyst  
+# Data Scientist   
 
 #### [LinkedIn](http://www.linkedin.com/in/dhvanisoni19) |  [Github](https://github.com/dhvanisoni) | [Kaggle](https://www.kaggle.com/dhvanisoni)
 
 ## About Me
 
-* 🚀 I'm a dedicated Data Science enthusiast with a strong passion for Data Analysis and Machine Learning. My journey has been fueled by an unyielding curiosity to uncover insights within complex data sets and apply them to solve real-world business challenges through data-driven solutions.
-* 📊 My expertise lies in leveraging large and complex data to provide valuable insights and solve business problems using analytics and data-driven problem-solving skills.
-* I am poficient in Python, SQL, Excel,Power BI, Tableau and Machine Learning.
-* ⚡ My passion for solving business problems through data and innovations led me to pursue a career in this field.
 
-* 🌍  I'm based in toronto
-* <p> ✉️  You can contact me at <h>dhvanisoni135@gmail.com</h> </p>
 
 ## Education
 
@@ -42,25 +36,42 @@ Gujarat Technological University, India
 - Collaborated closely with cross-functional teams and stakeholders across the company to identify impactful business problems and translate them into structured analyses and actionable insights.
 
 ## Projects
+## AI 
+
 ### Image Caption Generator
-
-
-### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
-
-### [Risk prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
-
-### [Sentoment Analysis on Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
-
-### [HR Case Study with Python](https://github.com/dhvanisoni/Case-Study-Human-Resource)
+- Developed an image caption generating application using cutting-edge AI integration that helps to increase user engagement rates by 50%, save user’s time and resulting in a measurable boost to the user experience.
+- Leveraged state-of-the-art Natural Language Processing (NLP) and Deep Learning models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.
 
 ### [AI Marketing Assistance](https://github.com/dhvanisoni/AI-marketing-assistant-)
 
+## Machine Learning 
+
+### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
+- Led End-to-End data collection from Statistics Canada, conducted data preprocessing and analysis to find adoption trend in Canada. Implemented and optimized different machine learning models.
+- Effectively utilized Random Forest regression model with 80% prediction accuracy. Generated insights to offer guidance to EV manufacturers on adoption trends and identify high-potential regions for EV sales.
+
+### [Risk prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
+- Implemented and fine-tuned the XGBoost algorithm, achieving an impressive 85% classification accuracy in identifying high-risk default payment orders, demonstrating the model's reliability and scalability.
+- Empowered the online trader with a powerful predictive model, enabling risk assessment and mitigation, ultimately safeguarding financial stability, and enhancing decision-making in the e-commerce sector.
+
+## Deep Learning and NLP 
+
+### [Sentoment Analysis on Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
+
 ### [Customer Churn Prediction](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers)
+
+## Python - Exploratory Data Analysis and Visualization
+
+### [HR Case Study with Python](https://github.com/dhvanisoni/Case-Study-Human-Resource)
+
 
 
 ## Certificates 
-
-
+- [Data Analysis by Microsoft](https://www.linkedin.com/learning/certificates/ead702370e6760ac9ab01e23a71106f9cd42df7358ae6ac5138e02a760a9ceae)
+- [Python Programming by Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e0f3ec59-c097-4a48-9c55-ae8e7b350a20.pdf)
+- [Solve Real World Data Problem with SQL](https://www.linkedin.com/learning/certificates/10ad314908d493fa1b0fdcb30493ae7c3e7cc6dab1b7c1ae2f74127f2aefe3de)
+- [Advanced SQL](https://www.linkedin.com/learning/certificates/87131f7a039c56e5526223873666c8085abc6759d9b6a20bf04e7299d708b843)
+  
 ## Open Source Contributions 
 - [Leetcode](https://leetcode.com/DhvaniSoni/) 
 - [StrataScrach](https://platform.stratascratch.com/user/dhvani19) 
