@@ -22,7 +22,7 @@ Gujarat Technological University, India
 > - Frameworks and Libraries    : TensorFlow, Pytorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, transformers(Huggingface), OpenCV, Apache Spark, Hadoop
 > - Tools:   Power BI, Tableau, MS Excel, MYSQL, AWS, Databricks, Azure, GCP, GitHub 
 > - Data Analysis : Data Analysis, Visualization, Relational Database, ETL, Database Design, Data Modeling 
-> - Machine Learning: Deep Learning, Natural Language Processing (NLP), Image Processing, Feature Engineering, Predictive Modeling
+> - Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Image Processing, Feature Engineering, Predictive Modeling
 > - Intermediate Skills: Analytical, Problem-solving, Communication, Organizational, customer service-oriented mindset
  
 
