@@ -38,7 +38,7 @@ Gujarat Technological University, India
 - Analyzed and interpreted complex data to identify key trends and patterns, successfully communicating insights and actionable recommendations to both technical and non-technical stakeholders, resulting in a 15% increase in operational efficiency across key departments.
 - Collaborated closely with cross-functional teams and stakeholders across the company to identify impactful business problems and translate them into structured analyses and actionable insights.
 
-## Projects
+## Academic Projects
 ## AI 
 
 #### Image Caption Generator
@@ -46,6 +46,9 @@ Gujarat Technological University, India
 - Leveraged state-of-the-art Natural Language Processing (NLP) and Transformer architecture, LLM and object detection models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.  
 
 #### [AI Marketing Assistance](https://github.com/dhvanisoni/AI-marketing-assistant-)
+- Developed a streamlined tool using the OpenAI model API and Streamlit to simplify the creation of SMS and email advertisements for promoting programs at Humber College.
+- Integrated the model API with Streamlit to create an intuitive user interface. Users can select program descriptions, languages, and message lengths, allowing for the generation of tailored marketing content.
+- Increased efficiency by reducing the time needed to create advertisements and by providing tailored content that resonates with diverse audiences. Marketing team can now generate compelling SMS and email content quickly and effectively, leading to more engaging marketing campaigns.
 
 ## Machine Learning Projects 
 
@@ -68,12 +71,6 @@ Gujarat Technological University, India
 - Developed an Artificial Neural Network (ANN) model using TensorFlow's Keras API to predict customer churn for a multinational bank. Conducted data operation including data preprocessing, analysis, visualization and feature engineering to improve the quality of data. 
 - Implemented three different optimizers (Adam, RMSprop, Adagrad) to evaluate performance, achieving a test accuracy of 85% with Adam optimizer. Improved model accuracy by 8% compared to baseline, demonstrating the effectiveness of ANN models in predicting customer churn.
 - Provided valuable insights into optimizer selection and model performance, contributing to the bank's ability to proactively retain customers and enhance sustainability.
-
-
-## Python - Exploratory Data Analysis and Visualization
-
-#### [HR Case Study with Python](https://github.com/dhvanisoni/Case-Study-Human-Resource)
-
 
 
 ## Certificates 
