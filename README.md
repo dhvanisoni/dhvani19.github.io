@@ -42,22 +42,22 @@ Gujarat Technological University, India
 ## AI 
 
 ### Image Caption Generator
-- Developed an image caption generating application using cutting-edge AI integration that helps to increase user engagement rates by 50%, save user’s time and resulting in a measurable boost to the user experience.
-- Leveraged state-of-the-art Natural Language Processing (NLP) and Deep Learning models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.
+- Developed an image caption generating application using Large laungaue Model (LLM) Model API and itegarting with Flask framework that helps to create captivating caption, increase user engagement rates by 70%, save user’s time and resulting in a measurable boost to the user experience.
+- Leveraged state-of-the-art Natural Language Processing (NLP) and Transformer architecture, LLM and object detection models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.  
 
 ### [AI Marketing Assistance](https://github.com/dhvanisoni/AI-marketing-assistant-)
 
-## Machine Learning 
+## Machine Learning Projects 
 
 ### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
-- Led End-to-End data collection from Statistics Canada, conducted data preprocessing and analysis to find adoption trend in Canada. Implemented and optimized different machine learning models.
-- Effectively utilized Random Forest regression model with 80% prediction accuracy. Generated insights to offer guidance to EV manufacturers on adoption trends and identify high-potential regions for EV sales.
+- Orchestrated end-to-end data collection from Statistics Canada, spearheading data preprocessing and analysis to uncover EV adoption trends in Canada. Employed and fine-tuned various ML models, achieving an impressive 80% prediction accuracy with the Random Forest regression model.
+- Conduscted Exploratory Data Analysis(EDA) and data visualization with python libraries to generate actionable insights to guide EV manufacturers on adoption trends and pinpoint high-potential regions for EV sales.
 
-### [Risk prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
-- Implemented and fine-tuned the XGBoost algorithm, achieving an impressive 85% classification accuracy in identifying high-risk default payment orders, demonstrating the model's reliability and scalability.
-- Empowered the online trader with a powerful predictive model, enabling risk assessment and mitigation, ultimately safeguarding financial stability, and enhancing decision-making in the e-commerce sector.
+### [Default Payment Risk Analysis and Prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
+- Conducted an in-depth analysis of a large dataset comprising online purchase orders for an e-commerce merchant, aiming to forecast the likelihood of default payment for each order. Executed a range of data operations, such as cleaning, transforming, manipulating, and visualizing the data, while also employing techniques to balance the dataset and eliminate outliers.
+- Utilized the XGBoost algorithm, optimizing it for enhanced performance, scalability, and robustness. Achieved a model performance of 85%, enabling effective risk management through the classification of orders at high risk of default payment.
 
-## Deep Learning and NLP 
+## Deep Learning and NLP Projects
 
 ### [Sentoment Analysis on Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
 
