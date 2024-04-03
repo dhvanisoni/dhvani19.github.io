@@ -41,7 +41,7 @@ Gujarat Technological University, India
 ## Academic Projects
 ## AI Projects
 
-#### Image Caption Generator
+#### [Image Caption Generator](https://github.com/dhvanisoni/AI-powered-Image-Caption-Generator)
 - Developed an image caption generating application using Large laungaue Model (LLM) Model API and itegarting with Flask framework that helps to create captivating caption, increase user engagement rates by 70%, save user’s time and resulting in a measurable boost to the user experience.
 - Leveraged state-of-the-art Natural Language Processing (NLP) and Transformer architecture, LLM and object detection models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.  
 
