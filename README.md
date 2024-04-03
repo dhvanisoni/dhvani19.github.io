@@ -65,6 +65,10 @@ Gujarat Technological University, India
 - Provided valuable insights into model selection, hyperparameter tuning, and architectural design, advancing the field of sentiment analysis and paving the way for future advancements in natural language processing applications.
 
 #### [Customer Churn Prediction](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers)
+- Developed an Artificial Neural Network (ANN) model using TensorFlow's Keras API to predict customer churn for a multinational bank. Conducted data operation including data preprocessing, analysis, visualization and feature engineering to improve the quality of data. 
+- Implemented three different optimizers (Adam, RMSprop, Adagrad) to evaluate performance, achieving a test accuracy of 85% with Adam optimizer. Improved model accuracy by 8% compared to baseline, demonstrating the effectiveness of ANN models in predicting customer churn.
+- Provided valuable insights into optimizer selection and model performance, contributing to the bank's ability to proactively retain customers and enhance sustainability.
+
 
 ## Python - Exploratory Data Analysis and Visualization
 
