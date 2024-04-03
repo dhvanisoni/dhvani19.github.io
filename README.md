@@ -41,31 +41,34 @@ Gujarat Technological University, India
 ## Projects
 ## AI 
 
-### Image Caption Generator
+#### Image Caption Generator
 - Developed an image caption generating application using Large laungaue Model (LLM) Model API and itegarting with Flask framework that helps to create captivating caption, increase user engagement rates by 70%, save user’s time and resulting in a measurable boost to the user experience.
 - Leveraged state-of-the-art Natural Language Processing (NLP) and Transformer architecture, LLM and object detection models to generate personalized captions with relevant hashtags, leading to a quantifiable improvement in content quality.  
 
-### [AI Marketing Assistance](https://github.com/dhvanisoni/AI-marketing-assistant-)
+#### [AI Marketing Assistance](https://github.com/dhvanisoni/AI-marketing-assistant-)
 
 ## Machine Learning Projects 
 
-### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
+#### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
 - Orchestrated end-to-end data collection from Statistics Canada, spearheading data preprocessing and analysis to uncover EV adoption trends in Canada. Employed and fine-tuned various ML models, achieving an impressive 80% prediction accuracy with the Random Forest regression model.
 - Conduscted Exploratory Data Analysis(EDA) and data visualization with python libraries to generate actionable insights to guide EV manufacturers on adoption trends and pinpoint high-potential regions for EV sales.
 
-### [Default Payment Risk Analysis and Prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
+#### [Default Payment Risk Analysis and Prediction](https://github.com/dhvanisoni/Risk-Prediction-with-Machine-Learning-)
 - Conducted an in-depth analysis of a large dataset comprising online purchase orders for an e-commerce merchant, aiming to forecast the likelihood of default payment for each order. Executed a range of data operations, such as cleaning, transforming, manipulating, and visualizing the data, while also employing techniques to balance the dataset and eliminate outliers.
 - Utilized the XGBoost algorithm, optimizing it for enhanced performance, scalability, and robustness. Achieved a model performance of 85%, enabling effective risk management through the classification of orders at high risk of default payment.
 
 ## Deep Learning and NLP Projects
 
-### [Sentoment Analysis on Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
+#### [Sentoment Analysis of IMDb Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
+- Developed an innovative ensemble model combining LSTM networks and CNNs to enhance sentiment analysis performance for IMDb movie reviews. Conducted thorough research and experimentation on various neural network architectures, including RNN, LSTM, CNN+LSTM, and a novel hybrid CNN-Bidirectional LSTM model.
+- Achieved a significant improvement in sentiment analysis accuracy, with the Hybrid Convolutional-BiLSTM model outperforming others with an accuracy of 89%, showcasing a 10% increase over the baseline LSTM model.
+- Provided valuable insights into model selection, hyperparameter tuning, and architectural design, advancing the field of sentiment analysis and paving the way for future advancements in natural language processing applications.
 
-### [Customer Churn Prediction](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers)
+#### [Customer Churn Prediction](https://github.com/dhvanisoni/Customer-Churn-Prediction-with-three-different-State-of-the-art-optimizers)
 
 ## Python - Exploratory Data Analysis and Visualization
 
-### [HR Case Study with Python](https://github.com/dhvanisoni/Case-Study-Human-Resource)
+#### [HR Case Study with Python](https://github.com/dhvanisoni/Case-Study-Human-Resource)
 
 
 
