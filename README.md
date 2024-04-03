@@ -26,7 +26,7 @@ Gujarat Technological University, India
 > - Tools:   Power BI, Tableau, MS Excel, MYSQL, AWS, Databricks, Azure, GCP, GitHub 
 > - Data Analysis : Data Analysis, Visualization, Relational Database, ETL, Database Design, Data Modeling 
 > - Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Image Processing, Feature Engineering, Predictive Modeling
-> - Intermediate Skills: Analytical, Problem-solving, Communication, Organizational, customer service-oriented mindset
+> - Soft Skills: Analytical, Problem-solving, Communication, Organizational, customer service-oriented mindset
  
 
 ## Work Experience
