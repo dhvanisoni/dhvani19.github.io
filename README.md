@@ -39,7 +39,7 @@ Gujarat Technological University, India
 - Collaborated closely with cross-functional teams and stakeholders across the company to identify impactful business problems and translate them into structured analyses and actionable insights.
 
 ## Academic Projects
-## AI 
+## AI Projects
 
 #### Image Caption Generator
 - Developed an image caption generating application using Large laungaue Model (LLM) Model API and itegarting with Flask framework that helps to create captivating caption, increase user engagement rates by 70%, save user’s time and resulting in a measurable boost to the user experience.
