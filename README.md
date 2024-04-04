@@ -1,8 +1,6 @@
-# Dhvani Soni   
+## About Me   
 
 #### [LinkedIn](http://www.linkedin.com/in/dhvanisoni19) |  [Github](https://github.com/dhvanisoni) 
-
-## About Me
 
 I am a Data scientist with a passion for leveraging data to solve real-world business problems. My experties lies in tranfroming raw data into insightful data-driven solutions and provide meaningful insights. I am proficient in Python and SQL with a solid foundation in machine learning, deep learning, statistical analysis, and data visualization. 
 
