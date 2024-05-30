@@ -37,7 +37,7 @@ Gujarat Technological University, India
 - Collaborated closely with cross-functional teams and stakeholders across the company to identify impactful business problems and translate them into structured analyses and actionable insights.
 
 ## Academic Projects
-## AI Projects
+### AI Projects
 
 #### [Image Caption Generator](https://github.com/dhvanisoni/AI-powered-Image-Caption-Generator)
 - Developed an image caption generating application using Large laungaue Model (LLM) Model API and itegarting with Flask framework that helps to create captivating caption, increase user engagement rates by 70%, save user’s time and resulting in a measurable boost to the user experience.
@@ -48,7 +48,7 @@ Gujarat Technological University, India
 - Integrated the model API with Streamlit to create an intuitive user interface. Users can select program descriptions, languages, and message lengths, allowing for the generation of tailored marketing content.
 - Increased efficiency by reducing the time needed to create advertisements and by providing tailored content that resonates with diverse audiences. Marketing team can now generate compelling SMS and email content quickly and effectively, leading to more engaging marketing campaigns.
 
-## Machine Learning Projects 
+### Machine Learning Projects 
 
 #### [Electric Vehicle Trend Prediction](https://github.com/dhvanisoni/EV-Trend-Prediction)
 - Orchestrated end-to-end data collection from Statistics Canada, spearheading data preprocessing and analysis to uncover EV adoption trends in Canada. Employed and fine-tuned various ML models, achieving an impressive 80% prediction accuracy with the Random Forest regression model.
@@ -58,7 +58,7 @@ Gujarat Technological University, India
 - Conducted an in-depth analysis of a large dataset comprising online purchase orders for an e-commerce merchant, aiming to forecast the likelihood of default payment for each order. Executed a range of data operations, such as cleaning, transforming, manipulating, and visualizing the data, while also employing techniques to balance the dataset and eliminate outliers.
 - Utilized the XGBoost algorithm, optimizing it for enhanced performance, scalability, and robustness. Achieved a model performance of 85%, enabling effective risk management through the classification of orders at high risk of default payment.
 
-## Deep Learning and NLP Projects
+### Deep Learning and NLP Projects
 
 #### [Sentoment Analysis of IMDb Movie Reviews](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-)
 - Developed an innovative ensemble model combining LSTM networks and CNNs to enhance sentiment analysis performance for IMDb movie reviews. Conducted thorough research and experimentation on various neural network architectures, including RNN, LSTM, CNN+LSTM, and a novel hybrid CNN-Bidirectional LSTM model.
