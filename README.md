@@ -24,11 +24,11 @@ Gujarat Technological University, India
 > - Tools:   Power BI, Tableau, MS Excel, MYSQL, AWS, Databricks, Azure, GCP, GitHub 
 > - Data Analysis : Data Analysis, Visualization, Relational Database, ETL, Database Design, Data Modeling 
 > - Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Image Processing, Feature Engineering, Predictive Modeling
-> - Soft Skills: Analytical, Problem-solving, Communication, Organizational, customer service-oriented mindset
+> - Soft Skills: Analytical, Critical Thinking, Problem-solving, customer service-oriented mindset
  
 
 ## Work Experience
-**Data Scientist @ Preemptor AI (_Aug 2023 - Present_)**
+**Data Scientist @ Preemptor AI (_Aug 2023 - Jun 2024_)**
 - Designed a machine learning model for plagiarism detection and achieving a 90% increase in detection performance by improving model generalization through effective data analysis, pre-processing, and collection techniques
 - Performed analysis and visualization to understand the characteristics of the data and identify patterns, correlations, or anomalies in the data that can inform feature selection and model design.
 
