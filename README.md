@@ -77,8 +77,3 @@ Gujarat Technological University, India
 - [Solve Real World Data Problem with SQL](https://www.linkedin.com/learning/certificates/10ad314908d493fa1b0fdcb30493ae7c3e7cc6dab1b7c1ae2f74127f2aefe3de)
 - [Advanced SQL](https://www.linkedin.com/learning/certificates/87131f7a039c56e5526223873666c8085abc6759d9b6a20bf04e7299d708b843)
   
-## Open Source Contributions 
-- [Leetcode](https://leetcode.com/DhvaniSoni/) 
-- [StrataScrach](https://platform.stratascratch.com/user/dhvani19) 
-- [HackerRank](https://www.hackerrank.com/profile/dhvanisoni135)
-- [Kaggle](https://www.kaggle.com/dhvanisoni)
